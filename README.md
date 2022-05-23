@@ -1,4 +1,5 @@
 # ExercicioMediaFundamental
+Receber o codigo,as notas,calcular e dizer se o aluno esta aprovado,em recuperação ou reprovado.
 ```
 Algoritimo do codigo.
 
